@@ -1,0 +1,7 @@
+.gradient(@start-color:#eee, @end-color: #fff, @angle: 0) {
+  background-color: @start-color;
+  background: -webkit-linear-gradient(@angle + 90deg, @start-color, @end-color);
+  background: -o-linear-gradient(@angle + 90deg, @start-color, @end-color);
+  background: -moz-linear-gradient(@angle + 90deg, @start-color, @end-color);
+  background: linear-gradient(@angle + 0deg, @start-color, @end-color);
+}

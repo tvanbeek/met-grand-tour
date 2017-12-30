@@ -1,0 +1,43 @@
+@import "./mixins.less";
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:800|Merriweather:400,400italic,700');
+@color-text: #222;
+
+h1 {
+  color: @color-text;
+  font-family: 'Merriweather Sans';
+  font-size: 66px;
+  font-weight: 800;
+  line-height: 78px;
+  letter-spacing: -4px;
+  margin-bottom: 72px;
+}
+
+h1:after {
+  background: @color-text;
+  content: '';
+  display: block;
+  height: 12px;
+  margin: 43px 0;
+  width: 80px;
+}
+
+p {
+  color: @color-text;
+  font-family: 'Merriweather';
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  margin-bottom: 36px;
+}
+
+a {
+  // color: #cc3914;
+}
+
+a:hover {
+  // color: #50413c;
+}
+
+section{
+  position: relative;
+}
