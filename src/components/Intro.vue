@@ -4,10 +4,6 @@
       <Parallax speedFactor=".55">
         <img src="../assets/lansdowne.jpg" />
       </Parallax>
-      <div id="title">
-          <h1>The Lansdowne Dining Room</h1>
-          <h2>The MET OpenAccess Initiative</h2>
-      </div>
     </section>
     <section>
       <b-container>

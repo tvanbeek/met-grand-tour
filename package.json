@@ -13,8 +13,7 @@
   "dependencies": {
     "leaflet": "^1.2.0",
     "vue": "^2.5.2",
-    "vue-parallaxy": "^1.0.4",
-    "vue2-leaflet": "0.0.57"
+    "vue-parallaxy": "^1.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -34,6 +33,7 @@
     "css-loader": "^0.28.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.3.0",
+    "eslint-config-mourner": "^2.0.3",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-import-resolver-webpack": "^0.8.3",
     "eslint-loader": "^1.7.1",
