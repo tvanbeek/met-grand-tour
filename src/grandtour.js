@@ -240,8 +240,8 @@ export default {
       marker: false,
     },
     {
-      lat: 48.868389,
-      lng: 2.097727,
+      lat: 48.862767,
+      lng: 2.094762,
       zoom: 17,
       name: 'Marly',
       marker: false,
@@ -254,8 +254,8 @@ export default {
       marker: false,
     },
     {
-      lat: 45.764043,
-      lng: 4.835659,
+      lat: 45.760801,
+      lng: 4.827290,
       zoom: 12,
       name: 'Lyon', // Lyon
       marker: false,
@@ -611,10 +611,17 @@ export default {
       marker: false,
     },
     {
-      lat: 40.851775,
-      lng: 14.268124,
+      lat: 40.837485,
+      lng: 14.249638,
       zoom: 12,
       name: 'Naples', // Naples
+      marker: false,
+    },
+    {
+      lat: 40.837485,
+      lng: 14.249638,
+      zoom: 17,
+      name: 'Teatro di San Carlo',
       marker: false,
     },
     {
@@ -641,7 +648,7 @@ export default {
     {
       lat: 40.848384,
       lng: 14.053859,
-      zoom: 12,
+      zoom: 17,
       name: 'Cuma',
       marker: false,
     },
@@ -655,7 +662,7 @@ export default {
     {
       lat: 40.821224,
       lng: 14.072312,
-      zoom: 12,
+      zoom: 17,
       name: 'Baiae',
       marker: false,
     },
@@ -884,17 +891,17 @@ export default {
       marker: false,
     },
     {
-      lat: 41.708883,
-      lng: 12.686584,
-      zoom: 12,
-      name: 'Genzano',
-      marker: false,
-    },
-    {
       lat: 41.721108,
       lng: 12.672641,
       zoom: 12,
       name: 'Ariccia',
+      marker: false,
+    },
+    {
+      lat: 41.708883,
+      lng: 12.686584,
+      zoom: 12,
+      name: 'Genzano',
       marker: false,
     },
     {
@@ -933,10 +940,10 @@ export default {
       marker: false,
     },
     {
-      lat: 41.695679,
-      lng: 13.257728,
+      lat: 42.488589,
+      lng: 12.132107,
       zoom: 12,
-      name: 'Ferento',
+      name: 'Roman Theater of Ferento',
       marker: false,
     },
     {
@@ -1026,7 +1033,7 @@ export default {
     {
       lat: 46.983297,
       lng: 11.497192,
-      zoom: 12,
+      zoom: 9,
       name: 'Alps',
       marker: false,
     },
